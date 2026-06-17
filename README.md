@@ -7,7 +7,7 @@
 **AI &amp; ML Enthusiast 🤖 • Computer Vision &amp; LLMs 🧠 • Builder of things that matter 🚀**
 
 <p>
-  <a href="https://linkedin.com/in/nourhene-grami">
+  <a href="[https://linkedin.com/in/nourhene-grami](https://www.linkedin.com/in/nourhene-grami-19a94a327?utm_source=share_via&utm_content=profile&utm_medium=member_ios)">
     <img src="https://img.shields.io/badge/LINKEDIN-NOURHENE_GRAMI-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/graminourhene2">
@@ -22,17 +22,17 @@
 
 <br/>
 
-### 🧑‍🎓 About Me
+###  About Me
 
-- 🎓 Engineering student in **Computer Science** at **[ENSI](https://www.ensi-uma.tn/)**, Tunisia (Class of 2024–Present)
-- 🤖 Passionate about **AI, Machine Learning, LLMs, RAG and Computer Vision**
-- 🛡️ Worked on software engineering research, including an **LLM-based automated refactoring system**
-- 🚀 **Vice Chair** of **ORBYX ENSI AI Club**, organizing technical activities to promote AI learning
-- 🌍 Speak **Arabic** (native), **French** (fluent) and **English** (professional)
+- 🎓 Engineering student in **Computer Science** at **[ENSI](https://www.ensi-uma.tn/)**, Tunisia 
+-  Passionate about **AI, Machine Learning, LLMs, RAG and Computer Vision**
+-  Worked on software engineering research, including an **LLM-based automated refactoring system**
+-  **Vice Chair** of **ORBYX ENSI AI Club**, organizing technical activities to promote AI learning
+-  Speak **Arabic** (native), **French** (fluent) and **English** (professional)
 
 <br/>
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,html,css,react,flask,postgres,git,github,unity,pytorch,tensorflow,sklearn,opencv" />
@@ -56,8 +56,6 @@
 - Advanced Learning Algorithms — Coursera
 - Building RAG Agents with LLMs — Pistacia
 - Computer Vision for Industrial Inspection — NVIDIA
-- Supervised Learning with scikit-learn — DataCamp
-- Image Processing in Python — DataCamp
 
 <br/>
 
